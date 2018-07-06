@@ -1,0 +1,770 @@
+{
+	"games" : [
+		{
+			"id" : 1,
+			"round" : "Round 1",
+			"time" : "2018-06-14 15:00",
+			"Team1" : {
+				"Name" : "Russia"
+			},
+			"Team2" : {
+				"Name" : "Saudi Arabia"
+			}
+		},
+
+		{
+			"id" : 2,
+			"round" : "Round 1",
+			"time" : "2018-06-15 12:00",
+			"Team1" : {
+				"Name" : "Egypt"
+			},
+			"Team2" : {
+				"Name" : "Uruguay"
+			}
+		},
+		{
+			"id" : 3,
+			"round" : "Round 1",
+			"time" : "2018-06-15 15:00",
+			"Team1" : {
+				"Name" : "Morocco"
+			},
+			"Team2" : {
+				"Name" : "Iran"
+			}
+		},
+		{
+			"id" : 4,
+			"round" : "Round 1",
+			"time" : "2018-06-15 18:00",
+			"Team1" : {
+				"Name" : "Portugal"
+			},
+			"Team2" : {
+				"Name" : "Spain"
+			}
+		},
+		{
+			"id" : 5,
+			"round" : "Round 1",
+			"time" : "2018-06-16 10:00",
+			"Team1" : {
+				"Name" : "France"
+			},
+			"Team2" : {
+				"Name" : "Australia"
+			}
+		},
+		{
+			"id" : 6,
+			"round" : "Round 1",
+			"time" : "2018-06-16 13:00",
+			"Team1" : {
+				"Name" : "Argentina"
+			},
+			"Team2" : {
+				"Name" : "Iceland"
+			}
+		},
+
+		{
+			"id" : 7,
+			"round" : "Round 1",
+			"time" : "2018-06-16 16:00",
+			"Team1" : {
+				"Name" : "Peru"
+			},
+			"Team2" : {
+				"Name" : "Denmark"
+			}
+		},
+		{
+			"id" : 8,
+			"round" : "Round 1",
+			"time" : "2018-06-16 19:00",
+			"Team1" : {
+				"Name" : "Croatia"
+			},
+			"Team2" : {
+				"Name" : "Nigeria"
+			}
+		},
+		{
+			"id" : 9,
+			"round" : "Round 1",
+			"time" : "2018-06-17 12:00",
+			"Team1" : {
+				"Name" : "Costa Rica"
+			},
+			"Team2" : {
+				"Name" : "Serbia"
+			}
+		},
+
+		{
+			"id" : 10,
+			"round" : "Round 1",
+			"time" : "2018-06-17 15:00",
+			"Team1" : {
+				"Name" : "Germany"
+			},
+			"Team2" : {
+				"Name" : "Mexico"
+			}
+		},
+
+		{
+			"id" : 11,
+			"round" : "Round 1",
+			"time" : "2018-06-17 18:00",
+			"Team1" : {
+				"Name" : "Brazil"
+			},
+			"Team2" : {
+				"Name" : "Switzerland"
+			}
+		},
+
+		{
+			"id" : 12,
+			"round" : "Round 1",
+			"time" : "2018-06-18 12:00",
+			"Team1" : {
+				"Name" : "Sweden"
+			},
+			"Team2" : {
+				"Name" : "Korea Rep"
+			}
+		},
+
+		{
+			"id" : 13,
+			"round" : "Round 1",
+			"time" : "2018-06-18 15:00",
+			"Team1" : {
+				"Name" : "Belgium"
+			},
+			"Team2" : {
+				"Name" : "Panama"
+			}
+		},
+
+		{
+			"id" : 14,
+			"round" : "Round 1",
+			"time" : "2018-06-18 18:00",
+			"Team1" : {
+				"Name" : "Tunisia"
+			},
+			"Team2" : {
+				"Name" : "England"
+			}
+		},
+
+		{
+			"id" : 15,
+			"round" : "Round 1",
+			"time" : "2018-06-19 12:00",
+			"Team1" : {
+				"Name" : "Colombia"
+			},
+			"Team2" : {
+				"Name" : "Japan"
+			}
+		},
+
+		{
+			"id" : 16,
+			"round" : "Round 1",
+			"time" : "2018-06-19 15:00",
+			"Team1" : {
+				"Name" : "Poland"
+			},
+			"Team2" : {
+				"Name" : "Senegal"
+			}
+		},
+
+		{
+			"id" : 17,
+			"round" : "Round 2",
+			"time" : "2018-06-19 18:00",
+			"Team1" : {
+				"Name" : "Russia"
+			},
+			"Team2" : {
+				"Name" : "Egypt"
+			}
+		},
+
+		{
+			"id" : 18,
+			"round" : "Round 2",
+			"time" : "2018-06-20 12:00",
+			"Team1" : {
+				"Name" : "Portugal"
+			},
+			"Team2" : {
+				"Name" : "Morocco"
+			}
+		},
+
+		{
+			"id" : 19,
+			"round" : "Round 2",
+			"time" : "2018-06-20 15:00",
+			"Team1" : {
+				"Name" : "Uruguay"
+			},
+			"Team2" : {
+				"Name" : "Saudi Arabia"
+			}
+		},
+
+		{
+			"id" : 20,
+			"round" : "Round 2",
+			"time" : "2018-06-20 18:00",
+			"Team1" : {
+				"Name" : "Iran"
+			},
+			"Team2" : {
+				"Name" : "Spain"
+			}
+		},
+
+		{
+			"id" : 21,
+			"round" : "Round 2",
+			"time" : "2018-06-21 12:00",
+			"Team1" : {
+				"Name" : "Denmark"
+			},
+			"Team2" : {
+				"Name" : "Australia"
+			}
+		},
+
+		{
+			"id" : 22,
+			"round" : "Round 2",
+			"time" : "2018-06-21 15:00",
+			"Team1" : {
+				"Name" : "France"
+			},
+			"Team2" : {
+				"Name" : "Peru"
+			}
+		},
+
+		{
+			"id" : 23,
+			"round" : "Round 2",
+			"time" : "2018-06-21 18:00",
+			"Team1" : {
+				"Name" : "Argentina"
+			},
+			"Team2" : {
+				"Name" : "Croatia"
+			}
+		},
+
+		{
+			"id" : 24,
+			"round" : "Round 2",
+			"time" : "2018-06-22 12:00",
+			"Team1" : {
+				"Name" : "Brazil"
+			},
+			"Team2" : {
+				"Name" : "Costa Rica"
+			}
+		},
+
+		{
+			"id" : 25,
+			"round" : "Round 2",
+			"time" : "2018-06-22 15:00",
+			"Team1" : {
+				"Name" : "Nigeria"
+			},
+			"Team2" : {
+				"Name" : "Iceland"
+			}
+		},
+
+		{
+			"id" : 26,
+			"round" : "Round 2",
+			"time" : "2018-06-22 18:00",
+			"Team1" : {
+				"Name" : "Serbia"
+			},
+			"Team2" : {
+				"Name" : "Switzerland"
+			}
+		},
+
+		{
+			"id" : 27,
+			"round" : "Round 2",
+			"time" : "2018-06-23 12:00",
+			"Team1" : {
+				"Name" : "Belgium"
+			},
+			"Team2" : {
+				"Name" : "Tunisia"
+			}
+		},
+
+		{
+			"id" : 28,
+			"round" : "Round 2",
+			"time" : "2018-06-23 15:00",
+			"Team1" : {
+				"Name" : "Korea Rep"
+			},
+			"Team2" : {
+				"Name" : "Mexico"
+			}
+		},
+
+		{
+			"id" : 29,
+			"round" : "Round 2",
+			"time" : "2018-06-23 18:00",
+			"Team1" : {
+				"Name" : "Germany"
+			},
+			"Team2" : {
+				"Name" : "Sweden"
+			}
+		},
+
+		{
+			"id" : 30,
+			"round" : "Round 2",
+			"time" : "2018-06-24 12:00",
+			"Team1" : {
+				"Name" : "England"
+			},
+			"Team2" : {
+				"Name" : "Panama"
+			}
+		},
+
+		{
+			"id" : 31,
+			"round" : "Round 2",
+			"time" : "2018-06-24 15:00",
+			"Team1" : {
+				"Name" : "Japan"
+			},
+			"Team2" : {
+				"Name" : "Senegal"
+			}
+		},
+
+		{
+			"id" : 32,
+			"round" : "Round 2",
+			"time" : "2018-06-24 18:00",
+			"Team1" : {
+				"Name" : "Poland"
+			},
+			"Team2" : {
+				"Name" : "Colombia"
+			}
+		},
+
+		{
+			"id" : 33,
+			"round" : "Round 3",
+			"time" : "2018-06-25 14:00",
+			"Team1" : {
+				"Name" : "Uruguay"
+			},
+			"Team2" : {
+				"Name" : "Russia"
+			}
+		},
+
+		{
+			"id" : 34,
+			"round" : "Round 3",
+			"time" : "2018-06-25 14:00",
+			"Team1" : {
+				"Name" : "Saudi Arabia"
+			},
+			"Team2" : {
+				"Name" : "Egypt"
+			}
+		},
+
+		{
+			"id" : 35,
+			"round" : "Round 3",
+			"time" : "2018-06-25 18:00",
+			"Team1" : {
+				"Name" : "Iran"
+			},
+			"Team2" : {
+				"Name" : "Portugal"
+			}
+		},
+
+
+		{
+			"id" : 36,
+			"round" : "Round 3",
+			"time" : "2018-06-25 18:00",
+			"Team1" : {
+				"Name" : "Spain"
+			},
+			"Team2" : {
+				"Name" : "Morocco"
+			}
+		},
+
+		{
+			"id" : 37,
+			"round" : "Round 3",
+			"time" : "2018-06-26 14:00",
+			"Team1" : {
+				"Name" : "Denmark"
+			},
+			"Team2" : {
+				"Name" : "France"
+			}
+		},
+
+		{
+			"id" : 38,
+			"round" : "Round 3",
+			"time" : "2018-06-26 14:00",
+			"Team1" : {
+				"Name" : "Australia"
+			},
+			"Team2" : {
+				"Name" : "Peru"
+			}
+		},
+
+		{
+			"id" : 39,
+			"round" : "Round 3",
+			"time" : "2018-06-26 18:00",
+			"Team1" : {
+				"Name" : "Nigeria"
+			},
+			"Team2" : {
+				"Name" : "Argentina"
+			}
+		},
+
+		{
+			"id" : 40,
+			"round" : "Round 3",
+			"time" : "2018-06-26 18:00",
+			"Team1" : {
+				"Name" : "Iceland"
+			},
+			"Team2" : {
+				"Name" : "Croatia"
+			}
+		},
+
+		{
+			"id" : 41,
+			"round" : "Round 3",
+			"time" : "2018-06-27 14:00",
+			"Team1" : {
+				"Name" : "Mexico"
+			},
+			"Team2" : {
+				"Name" : "Sweden"
+			}
+		},
+		
+		{
+			"id" : 42,
+			"round" : "Round 3",
+			"time" : "2018-06-27 14:00",
+			"Team1" : {
+				"Name" : "Korea Rep"
+			},
+			"Team2" : {
+				"Name" : "Germany"
+			}
+		},
+
+		{
+			"id" : 43,
+			"round" : "Round 3",
+			"time" : "2018-06-27 18:00",
+			"Team1" : {
+				"Name" : "Serbia"
+			},
+			"Team2" : {
+				"Name" : "Brazil"
+			}
+		},
+
+		{
+			"id" : 44,
+			"round" : "Round 3",
+			"time" : "2018-06-27 18:00",
+			"Team1" : {
+				"Name" : "Switzerland"
+			},
+			"Team2" : {
+				"Name" : "Costa Rica"
+			}
+		},
+
+		{
+			"id" : 45,
+			"round" : "Round 3",
+			"time" : "2018-06-28 14:00",
+			"Team1" : {
+				"Name" : "Japan"
+			},
+			"Team2" : {
+				"Name" : "Poland"
+			}
+		},
+
+		{
+			"id" : 46,
+			"round" : "Round 3",
+			"time" : "2018-06-28 14:00",
+			"Team1" : {
+				"Name" : "Senegal"
+			},
+			"Team2" : {
+				"Name" : "Colombia"
+			}
+		},
+
+		{
+			"id" : 47,
+			"round" : "Round 3",
+			"time" : "2018-06-28 18:00",
+			"Team1" : {
+				"Name" : "Panama"
+			},
+			"Team2" : {
+				"Name" : "Tunisia"
+			}
+		},
+
+		{
+			"id" : 48,
+			"round" : "Round 3",
+			"time" : "2018-06-28 18:00",
+			"Team1" : {
+				"Name" : "England"
+			},
+			"Team2" : {
+				"Name" : "Belgium"
+			}
+		},
+		
+		{
+			"id" : 49,
+			"round" : "Round of 16",
+			"time" : "2018-06-30 14:00",
+			"Team1" : {
+				"Name" : "France"
+			},
+			"Team2" : {
+				"Name" : "Argentina"
+			}
+		},
+
+		{
+			"id" : 50,
+			"round" : "Round of 16",
+			"time" : "2018-06-30 18:00",
+			"Team1" : {
+				"Name" : "Uruguay"
+			},
+			"Team2" : {
+				"Name" : "Portugal"
+			}
+		},
+
+		{
+			"id" : 51,
+			"round" : "Round of 16",
+			"time" : "2018-07-01 14:00",
+			"Team1" : {
+				"Name" : "Spain"
+			},
+			"Team2" : {
+				"Name" : "Russia"
+			}
+		},
+
+		{
+			"id" : 52,
+			"round" : "Round of 16",
+			"time" : "2018-07-01 18:00",
+			"Team1" : {
+				"Name" : "Croatia"
+			},
+			"Team2" : {
+				"Name" : "Denmark"
+			}
+		},
+
+		{
+			"id" : 53,
+			"round" : "Round of 16",
+			"time" : "2018-07-02 14:00",
+			"Team1" : {
+				"Name" : "Brazil"
+			},
+			"Team2" : {
+				"Name" : "Mexico"
+			}
+		},
+
+		{
+			"id" : 54,
+			"round" : "Round of 16",
+			"time" : "2018-07-02 18:00",
+			"Team1" : {
+				"Name" : "Belgium"
+			},
+			"Team2" : {
+				"Name" : "Japan"
+			}
+		},
+
+		{
+			"id" : 55,
+			"round" : "Round of 16",
+			"time" : "2018-07-03 14:00",
+			"Team1" : {
+				"Name" : "Sweden"
+			},
+			"Team2" : {
+				"Name" : "Switzerland"
+			}
+		},
+
+		{
+			"id" : 56,
+			"round" : "Round of 16",
+			"time" : "2018-07-03 18:00",
+			"Team1" : {
+				"Name" : "Colombia"
+			},
+			"Team2" : {
+				"Name" : "England"
+			}
+		},
+
+		{
+			"id" : 57,
+			"round" : "Quarter Final",
+			"time" : "2018-07-06 14:00",
+			"Team1" : {
+				"Name" : "Uruguay"
+			},
+			"Team2" : {
+				"Name" : "France"
+			}
+		},	
+		
+		{
+			"id" : 58,
+			"round" : "Quarter Final",
+			"time" : "2018-07-06 18:00",
+			"Team1" : {
+				"Name" : "Brazil"
+			},
+			"Team2" : {
+				"Name" : "Belgium"
+			}
+		},
+
+		{
+			"id" : 59,
+			"round" : "Quarter Final",
+			"time" : "2018-07-07 14:00",
+			"Team1" : {
+				"Name" : "Sweden"
+			},
+			"Team2" : {
+				"Name" : "England"
+			}
+		},
+		
+		{
+			"id" : 60,
+			"round" : "Quarter Final",
+			"time" : "2018-07-07 18:00",
+			"Team1" : {
+				"Name" : "Russia"
+			},
+			"Team2" : {
+				"Name" : "Croatia"
+			}
+		},
+
+		{
+			"id" : 61,
+			"round" : "Semi Final",
+			"time" : "2018-07-10 18:00",
+			"Team1" : {
+				"Name" : "TBD"
+			},
+			"Team2" : {
+				"Name" : "TBD"
+			}
+		},
+
+		{
+			"id" : 62,
+			"round" : "Semi Final",
+			"time" : "2018-07-11 18:00",
+			"Team1" : {
+				"Name" : "TBD"
+			},
+			"Team2" : {
+				"Name" : "TBD"
+			}
+		},
+
+		{
+			"id" : 63,
+			"round" : "Third Place play-off",
+			"time" : "2018-07-14 14:00",
+			"Team1" : {
+				"Name" : "TBD"
+			},
+			"Team2" : {
+				"Name" : "TBD"
+			}
+		},
+
+		
+		{
+			"id" : 64,
+			"round" : "Final",
+			"time" : "2018-07-15 15:00",
+			"Team1" : {
+				"Name" : "TBD"
+			},
+			"Team2" : {
+				"Name" : "TBD"
+			}
+		}
+
+
+		
+	]
+}

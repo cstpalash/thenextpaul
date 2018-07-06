@@ -1,0 +1,24 @@
+{
+  "name": "ui",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.1",
+    "react-google-login": "^3.2.1",
+    "react-scripts": "1.1.4",
+    "react-spinners": "^0.3.2",
+    "react-world-flags": "^1.2.0",
+    "react-youtube": "^7.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "paul-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "worker.js",
+  "scripts": {
+    "create": "claudia create --region ap-south-1 --handler worker.handler --set-env-from-json env.json",
+    "update": "claudia update --set-env-from-json env.json",
+    "test": "claudia test-lambda --event payload.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.259.1",
+    "dynamodb-doc": "^1.0.0",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2"
+  }
+}

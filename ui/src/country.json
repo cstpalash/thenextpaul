@@ -1,0 +1,41 @@
+{
+	"Russia" : "RU",
+	"Saudi Arabia" : "SA",
+	"Egypt" : "EG",
+	"Uruguay" : "UY",
+
+	"Morocco" : "MA",
+	"Iran" : "IR",
+	"Portugal" : "PT",
+	"Spain" : "ES",
+
+	"France" : "FR",
+	"Australia" : "AU",
+	"Peru" : "PE",
+	"Denmark" : "DK",
+
+	"Argentina" : "AR",
+	"Iceland" : "IS",
+	"Croatia" : "HR",
+	"Nigeria" : "NG",
+
+	"Costa Rica" : "CR",
+	"Serbia" : "RS",
+	"Brazil" : "BR",
+	"Switzerland" : "CH",
+
+	"Sweden" : "SE",
+	"Korea Rep" : "KR",
+	"Germany" : "DE",
+	"Mexico" : "MX",
+
+	"Belgium" : "BE",
+	"Panama" : "PA",
+	"Tunisia" : "TN",
+	"England" : "GB",
+
+	"Colombia" : "CO",
+	"Japan" : "JP",
+	"Poland" : "PL",
+	"Senegal" : "SN"
+}

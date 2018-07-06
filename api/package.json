@@ -1,0 +1,21 @@
+{
+  "name": "paul-api",
+  "version": "1.0.0",
+  "description": "api paul-api",
+  "main": "api.js",
+  "scripts": {
+    "create": "claudia create --region ap-south-1 --api-module api --version prod --set-env-from-json env.json",
+    "update": "claudia update --region ap-south-1 --version prod --set-env-from-json env.json"
+  },
+  "author": "Palash Roy",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.259.1",
+    "claudia-api-builder": "^4.1.0",
+    "dynamodb-doc": "^1.0.0",
+    "google-auth-library": "^1.6.1",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "unirest": "^0.5.1"
+  }
+}

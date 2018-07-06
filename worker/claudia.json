@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "paul-worker-executor",
+    "name": "paul-worker",
+    "region": "ap-south-1"
+  }
+}
